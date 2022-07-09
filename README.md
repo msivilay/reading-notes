@@ -34,3 +34,6 @@ Please follow me at [github.com/msivilay](https://www.github.com/msivilay). Than
 ### Support or Contact
 
 Having trouble? Please contact me at: [msivilay@gmail.com](mailto:msivilay@gmail.com).
+
+## Assignments: Table of Contents
+- [Read01](read01.html)
