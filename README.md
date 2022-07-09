@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Marina Sivilay - Code Fellows: Read Me
+I am required to create this 'Reading Notes' repository for my coursework at Code Fellows.
 
-You can use the [editor on GitHub](https://github.com/msivilay/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Course 102 Lab 01b Assignment:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**_On the main page:
+Explain “growth mindset” in your own words_**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Growth Mindset_ is a term that encompasses a flexible thought pattern and process. It is typically defined by embracing challenges and seeing obstacles as opportunities for growth and learning. It seems equally important to consider that a _Growth Mindset_ does not make any assumptions, or at least attempts to lessen them. _Growth Mindset_ is a way to describe that all effort is worthwhile. Through hardwork, perseverence, and an open attitude all things are possible.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**_Include 3 reminders to yourself of how to keep yourself in a growth mindset_**
+```
+Reminders:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. I will re-evaluate my thought process when frustrated with a problem.
+2. I will be honest with my struggles and utilize my coding peers and community to help me navigate the issues.
+3. I will be grateful for all feedback that is given.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**_Utilize at least 5 different features of Markdown to structure your page_**
+- Header (various levels)
+- **Use** _of_ `typographical emphasis` or <sub>text</sub> <sup>styling</sup>
+- Highlighted block
+- Use of a emoji: :heavy_check_mark:
+- This bulleted list, and numbered list above
+- Link to email
+<!-- - Use of a hidden comment :wink: -->
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msivilay/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Introduction
+My name is Marina Sivilay and I am a student of Code Fellows in Seattle, WA. I am looking forward to a fulfilling career in web development.
+Please follow me at [github.com/msivilay](https://www.github.com/msivilay). Thank you! 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble? Please contact me at: [msivilay@gmail.com](mailto:msivilay@gmail.com).
