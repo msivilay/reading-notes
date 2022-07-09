@@ -23,7 +23,6 @@ Reminders:
 - Header (various levels)
 - **Use** _of_ `typographical emphasis` or <sub>text</sub> <sup>styling</sup>
 - Highlighted block
-- Use of a emoji: :heavy_check_mark:
 - This bulleted list, and numbered list above
 - Link to email
 <!-- - Use of a hidden comment :wink: -->
