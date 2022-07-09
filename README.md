@@ -37,3 +37,10 @@ Having trouble? Please contact me at: [msivilay@gmail.com](mailto:msivilay@gmail
 
 ## Assignments: Table of Contents
 - [Read01](read01.html)
+- [Read02](read02.html)
+- [Read03](read03.html)
+- [Read04](read04.html)
+- [Read05](read05.html)
+- [Read06](read06.html)
+- [Read07](read07.html)
+- [Read08](read08.html)
