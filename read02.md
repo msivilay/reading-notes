@@ -26,13 +26,13 @@ In this course of study, I believe it will be important for us to use **Visual S
 
 # Command Cheat Sheet
 
-There can be an overwhelming amount of commands we can run on the terminal command line. Here are a few that will get us going in the basic direction and/or will be used most often.
+There can be an overwhelming amount of commands we can run on the terminal command line. Here are a few that will be most helpful as a new user.
 
 | Command      | Description |
 | ----------- | ----------- |
 | ~      | will take you to home directory       |
 | cd   | change directory        |
-| ls   | lists file in directory        |
+| ls   | lists files in directory        |
 | mkdir   | makes a new directory        |
 | mv   | moves file(s)        |
 | rm   | removes a file        |
@@ -41,3 +41,5 @@ There can be an overwhelming amount of commands we can run on the terminal comma
 |mv filename new_file_name| renames a file|
 
 When in doubt, the command '**man**' followed by the command you have questions about can be used to get some information and to see available flags with are often a letter or letters preceded by a dash like this: "ls -la"
+
+This is a good external resource for general command line tips: [https://www.guru99.com/linux-commands-cheat-sheet.html](https://www.guru99.com/linux-commands-cheat-sheet.html)
