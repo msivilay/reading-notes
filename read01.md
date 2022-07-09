@@ -1,4 +1,4 @@
-# Summary of Read 01
+# Read01 Assignment
 Author: M. Sivilay
 <br><br>
 Assignment: _Go through these resources, and create a page in your reading-notes repo that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it._
