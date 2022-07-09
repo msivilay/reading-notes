@@ -1,5 +1,5 @@
 # Marina Sivilay - Code Fellows: Read Me
-This is 'Reading Notes' repository for my coursework at Code Fellows.
+This is my 'Reading Notes' repository for my coursework at Code Fellows.
 
 ## Course 102 Lab 01b Assignment:
 
