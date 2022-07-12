@@ -25,7 +25,5 @@ Having trouble? Please contact me at: [msivilay@gmail.com](mailto:msivilay@gmail
 ## Table of Contents for 201
 
 - [Read01](201read01.html)
-<!--
 - [Read02](201read02.html)
 - [Read03](201read03.html)
--->
