@@ -4,7 +4,7 @@ This is my 'Reading Notes' repository for my coursework at Code Fellows (2022).
 
 ## Introduction
 
-My name is Marina Sivilay and I am a student of Code Fellows in Seattle, WA. I am looking for a opportunity to merge my STEM education, varied interests, and diverse background with the technical industry and serve niche clients with a custom web design experience. Please follow me at [github.com/msivilay](https://www.github.com/msivilay). Thank you!
+My name is Marina Sivilay and I am a student of Code Fellows in Seattle, WA. I am looking for an opportunity to merge my STEM education, varied interests, and diverse background with the technical industry to serve niche clients with a custom web design experience. Please follow me at [github.com/msivilay](https://www.github.com/msivilay). Thank you!
 
 ### Support or Contact
 
